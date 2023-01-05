@@ -1,42 +1,78 @@
 {
   "cars": [
     {
-      "id": 1,
-      "brand": "Tata",
-      "type": "Manual",
-      "year": 2019,
-      "kms": 10000,
-      "Description": "Tata Altroz with all original documents",
-      "Price": 500000
+      "id": 1672902099514,
+      "brand": "TOYOTA",
+      "type": "AMT",
+      "year": 2002,
+      "kms": 1,
+      "Description": "nadcnna",
+      "Price": 56565665
     },
     {
-      "id": 2,
-      "brand": "Tata",
+      "id": 1672905727932,
+      "brand": "TOYOTA",
       "type": "AMT",
-      "year": 2017,
-      "kms": 8000,
-      "Description": "Tata Nexon with all original documents",
-      "Price": 800000
+      "year": 2011,
+      "kms": 10000,
+      "Description": "yzb abc efghi",
+      "Price": 7676767676
+    },
+    {
+      "id": 1672905770277,
+      "brand": "MERC",
+      "type": "Manual",
+      "year": 2011,
+      "kms": 20202020,
+      "Description": "xyznz. znznz ",
+      "Price": 444444444
+    },
+    {
+      "id": 1672907719816,
+      "brand": "TATA",
+      "type": "Manual",
+      "year": 2010,
+      "kms": 20202020,
+      "Description": "zyx",
+      "Price": 121000790
+    },
+    {
+      "id": 1672907727653,
+      "brand": "TATA",
+      "type": "Manual",
+      "year": 2010,
+      "kms": 20202012,
+      "Description": "zyx",
+      "Price": 121000
+    },
+    {
+      "id": 1672907742097,
+      "brand": "MERC",
+      "type": "AMT",
+      "year": 2007,
+      "kms": 2012,
+      "Description": "zyx",
+      "Price": 12123
     }
   ],
   "wishlisted_cars": [
     {
-      "id": 1,
-      "brand": "Tata",
-      "year": 2019,
-      "type": "Manual",
-      "kms": 10000,
-      "Description": "Tata Altroz with all original documents",
-      "Price": 500000
+      "id": 1672902099514,
+      "brand": "TOYOTA",
+      "type": "AMT",
+      "year": 2002,
+      "kms": 1,
+      "Description": "nadcnna",
+      "Price": 56565665
     },
     {
-      "id": 2,
-      "brand": "Tata",
+      "id": 1672905727932,
+      "brand": "TOYOTA",
       "type": "AMT",
-      "year": 2017,
-      "kms": 8000,
-      "Description": "Tata Nexon with all original documents",
-      "Price": 800000
+      "year": 2011,
+      "kms": 10000,
+      "Description": "yzb abc efghi",
+      "Price": 1234566565
     }
   ]
 }
