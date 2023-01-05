@@ -55,24 +55,5 @@
       "Price": 12123
     }
   ],
-  "wishlisted_cars": [
-    {
-      "id": 1672902099514,
-      "brand": "TOYOTA",
-      "type": "AMT",
-      "year": 2002,
-      "kms": 1,
-      "Description": "nadcnna",
-      "Price": 56565665
-    },
-    {
-      "id": 1672905727932,
-      "brand": "TOYOTA",
-      "type": "AMT",
-      "year": 2011,
-      "kms": 10000,
-      "Description": "yzb abc efghi",
-      "Price": 1234566565
-    }
-  ]
+  "wishlisted_cars": []
 }
