@@ -6,6 +6,13 @@
       "password": "123456",
       "confirmPassword": "123456",
       "id": 1
+    },
+    {
+      "email": "kumar@gmail.com",
+      "username": "kumar",
+      "password": "12345",
+      "confirmPassword": "12345",
+      "id": 2
     }
   ],
   "userTodo": [
@@ -33,6 +40,21 @@
       "username": "nayan",
       "task": "nayan",
       "id": 5
+    },
+    {
+      "username": "kumar",
+      "task": "add task",
+      "id": 6
+    },
+    {
+      "username": "kumar",
+      "task": "one more",
+      "id": 7
+    },
+    {
+      "username": "kumar",
+      "task": "one more",
+      "id": 8
     }
   ]
 }
