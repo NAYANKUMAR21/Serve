@@ -1,0 +1,38 @@
+{
+  "signup": [
+    {
+      "email": "naayaankumar@gmail.com",
+      "username": "nayan",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "id": 1
+    }
+  ],
+  "userTodo": [
+    {
+      "username": "nayan",
+      "task": "ababca",
+      "id": 1
+    },
+    {
+      "username": "nayan",
+      "task": "annanc",
+      "id": 2
+    },
+    {
+      "username": "nayan",
+      "task": "nayana",
+      "id": 3
+    },
+    {
+      "username": "nayan",
+      "task": "nayan",
+      "id": 4
+    },
+    {
+      "username": "nayan",
+      "task": "nayan",
+      "id": 5
+    }
+  ]
+}
