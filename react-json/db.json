@@ -1,60 +1,25 @@
 {
-  "signup": [
+  "dogs": [
     {
-      "email": "naayaankumar@gmail.com",
-      "username": "nayan",
-      "password": "123456",
-      "confirmPassword": "123456",
-      "id": 1
+      "id": 1,
+      "name": "Cherry",
+      "age": "2",
+      "place": "Visakhapatnam",
+      "gender": "Male"
     },
     {
-      "email": "kumar@gmail.com",
-      "username": "kumar",
-      "password": "12345",
-      "confirmPassword": "12345",
-      "id": 2
-    }
-  ],
-  "userTodo": [
-    {
-      "username": "nayan",
-      "task": "ababca",
-      "id": 1
+      "id": 4,
+      "name": "Tommy 1",
+      "age": "78",
+      "place": "Banglore",
+      "gender": "Female"
     },
     {
-      "username": "nayan",
-      "task": "annanc",
-      "id": 2
-    },
-    {
-      "username": "nayan",
-      "task": "nayana",
-      "id": 3
-    },
-    {
-      "username": "nayan",
-      "task": "nayan",
-      "id": 4
-    },
-    {
-      "username": "nayan",
-      "task": "nayan",
-      "id": 5
-    },
-    {
-      "username": "kumar",
-      "task": "add task",
-      "id": 6
-    },
-    {
-      "username": "kumar",
-      "task": "one more",
-      "id": 7
-    },
-    {
-      "username": "kumar",
-      "task": "one more",
-      "id": 8
+      "id": 5,
+      "name": "Tommy 2",
+      "age": "67",
+      "place": "Banglore",
+      "gender": "Female"
     }
   ]
 }

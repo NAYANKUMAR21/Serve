@@ -5,7 +5,7 @@ const middleware = jsonServer.defaults();
 server.use(middleware);
 server.use("", router);
 server.listen(8080, () => {
-  console.log("listening on http://localhost:8080/signup");
+  console.log("listening on http://localhost:8080/dogs");
 });
 // // { "username": "nayan", "task": "reatc" },
 // { "username": "nayan", "task": "study" },
