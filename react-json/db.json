@@ -20,6 +20,13 @@
       "age": "67",
       "place": "Banglore",
       "gender": "Female"
+    },
+    {
+      "id": 4,
+      "name": "Tommy 1",
+      "age": "78",
+      "place": "Banglore",
+      "gender": "Female"
     }
   ]
 }
