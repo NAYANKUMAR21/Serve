@@ -3,7 +3,14 @@ const userModel = require("./auth.model");
 const app = express.Router();
 const argon2 = require("argon2");
 const jwt = require("jsonwebtoken");
-
+app.get("/", async (req, res) => {
+  try {
+    const user = await userModel.find();
+    return res.status(200).send(user);
+  } catch (er) {
+    return res.status(404).send({ message: "ACCESS DENIED" });
+  }
+});
 app.get("/:email", async (req, res) => {
   const { email } = req.params;
   console.log(email, "from get");
