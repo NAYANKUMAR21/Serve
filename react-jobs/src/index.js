@@ -4,7 +4,7 @@ const app = express();
 const connect = require("./config/db");
 const PORT = process.env.PORT || 8080;
 const cors = require("cors");
-const authRouter = require("./features/Auth/auth.router");
+const authRouter = require("./Features/Auth/auth.router");
 const JobRouter = require("./Features/Jobs/jobs.router");
 const infoRouter = require("./Features/USerJobs/info.router");
 //middleware
