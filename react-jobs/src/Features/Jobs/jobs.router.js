@@ -53,11 +53,10 @@ app.delete("/:id", async (req, res) => {
   }
 });
 
-app.patch("/", async (req, res) => {
+app.put("/", async (req, res) => {
   const { _id, CompanyName, Position, Location, Contract } = req.body;
   try {
-    console.log(req.body);
-    const res = await JobsModel.findOneAndReplace(
+    const attancgResult = await JobsModel.findByIdAndUpdate(
       { _id: _id },
       {
         CompanyName: CompanyName,
@@ -67,7 +66,8 @@ app.patch("/", async (req, res) => {
       },
       { new: true }
     );
-    return res.status(200).send(res);
+
+    return res.status(200).send(attancgResult);
   } catch (er) {
     return res.status(404).send(er.message);
   }
