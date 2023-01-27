@@ -7,13 +7,14 @@ const connect = require("./config/db");
 const PORT = process.env.PORT || 8080;
 
 const wordROuter = require("./word/word.router");
-
+const allRouter = require("./word/all.router");
 //middleeare
 app.use(express.json());
 app.use(cors());
 
 //routes
 app.use("/word", wordROuter);
+app.use("/all", allRouter);
 
 //home page get request
 app.get("/", (req, res) => {
