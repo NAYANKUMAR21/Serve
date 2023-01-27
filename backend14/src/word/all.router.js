@@ -4,7 +4,7 @@ const app = express.Router();
 
 app.get("/", async (req, res) => {
   try {
-    const getPlayer = await wordModel.find();
+    const getPlayer = await wordModel.find().sort({ score: "asc" });
     return res.status(200).send(getPlayer);
   } catch (er) {
     return res.status(404).send(er.message);
