@@ -29,8 +29,46 @@ app.post("/", async (req, res) => {
 
 app.get("/", async (req, res) => {
   try {
-    let words = ["APPLE", "REACT", "CODE", "ML"];
-    let pickOne = Math.floor(Math.random() * 4);
+    let words = [
+      "APPLE",
+      "REACT",
+      "CODE",
+      "ML",
+      "he",
+      "Random",
+      "Word",
+      "Generator",
+      "is",
+      "an",
+      "online",
+      "tool",
+      "that",
+      "helps",
+      "you",
+      "to",
+      "generate",
+      "random",
+      "English",
+      "words",
+      "It",
+      "is",
+      "a",
+      "useful",
+      "tool",
+      "if",
+      "you",
+      "want",
+      "to",
+      "collect",
+      "a",
+      "randomized",
+      "list",
+      "of",
+      "common",
+      "English",
+      "words",
+    ];
+    let pickOne = Math.floor(Math.random() * words.length);
     data.push(words[pickOne]);
     console.log(data);
     return res.status(200).send({ pickOne, words: words[pickOne] });
