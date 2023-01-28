@@ -1,0 +1,686 @@
+[
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which of the following was not one of &quot;The Magnificent Seven&quot;?",
+    "correct_answer": "Clint Eastwood",
+    "incorrect_answers": ["Steve McQueen", "Charles Bronson", "Robert Vaughn"]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of the following movies was not based on a novel by Stephen King? ",
+    "correct_answer": "The Thing",
+    "incorrect_answers": ["Carrie", "Misery", "The Green Mile"]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who directed &quot;E.T. the Extra-Terrestrial&quot; (1982)?",
+    "correct_answer": "Steven Spielberg",
+    "incorrect_answers": ["Stanley Kubrick", "James Cameron", "Tim Burton"]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who wrote and directed the 1986 film &#039;Platoon&#039;?",
+    "correct_answer": "Oliver Stone",
+    "incorrect_answers": [
+      "Francis Ford Coppola",
+      "Stanley Kubrick",
+      "Michael Cimino"
+    ]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who starred in the film 1973 movie &quot;Enter The Dragon&quot;?",
+    "correct_answer": "Bruce Lee",
+    "incorrect_answers": ["Jackie Chan", "Jet Li", " Yun-Fat Chow"]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who directed the 2015 movie &quot;The Revenant&quot;?",
+    "correct_answer": "Alejandro G. I&ntilde;&aacute;rritu",
+    "incorrect_answers": ["Christopher Nolan", "David Fincher", "Wes Anderson"]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the orange and white bot&#039;s name in &quot;Star Wars: The Force Awakens&quot;?",
+    "correct_answer": "BB-8",
+    "incorrect_answers": ["BB-3", "AA-A", "R2-D2"]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In the 1992 film &quot;Army of Darkness&quot;, what name does Ash give to his double-barreled shotgun?",
+    "correct_answer": "Boomstick",
+    "incorrect_answers": ["Bloomstick", "Blastbranch", "2-Pump Chump"]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the name of the fictional retro-mod band starring Austin Powers as the lead vocalist?",
+    "correct_answer": "Ming Tea",
+    "incorrect_answers": ["Cough Fi", "Spear Mint", "Mister E"]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In &quot;ALF&quot;, what was ALF&#039;s real name?",
+    "correct_answer": "Gordon Shumway",
+    "incorrect_answers": ["Gordon Milipp", "Gordon Foster", "Gordon von Gam"]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which of the following was not one of &quot;The Magnificent Seven&quot;?",
+    "correct_answer": "Clint Eastwood",
+    "incorrect_answers": ["Steve McQueen", "Charles Bronson", "Robert Vaughn"]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of the following movies was not based on a novel by Stephen King? ",
+    "correct_answer": "The Thing",
+    "incorrect_answers": ["Carrie", "Misery", "The Green Mile"]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who directed &quot;E.T. the Extra-Terrestrial&quot; (1982)?",
+    "correct_answer": "Steven Spielberg",
+    "incorrect_answers": ["Stanley Kubrick", "James Cameron", "Tim Burton"]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who wrote and directed the 1986 film &#039;Platoon&#039;?",
+    "correct_answer": "Oliver Stone",
+    "incorrect_answers": [
+      "Francis Ford Coppola",
+      "Stanley Kubrick",
+      "Michael Cimino"
+    ]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who starred in the film 1973 movie &quot;Enter The Dragon&quot;?",
+    "correct_answer": "Bruce Lee",
+    "incorrect_answers": ["Jackie Chan", "Jet Li", " Yun-Fat Chow"]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who directed the 2015 movie &quot;The Revenant&quot;?",
+    "correct_answer": "Alejandro G. I&ntilde;&aacute;rritu",
+    "incorrect_answers": ["Christopher Nolan", "David Fincher", "Wes Anderson"]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the orange and white bot&#039;s name in &quot;Star Wars: The Force Awakens&quot;?",
+    "correct_answer": "BB-8",
+    "incorrect_answers": ["BB-3", "AA-A", "R2-D2"]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In the 1992 film &quot;Army of Darkness&quot;, what name does Ash give to his double-barreled shotgun?",
+    "correct_answer": "Boomstick",
+    "incorrect_answers": ["Bloomstick", "Blastbranch", "2-Pump Chump"]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the name of the fictional retro-mod band starring Austin Powers as the lead vocalist?",
+    "correct_answer": "Ming Tea",
+    "incorrect_answers": ["Cough Fi", "Spear Mint", "Mister E"]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In &quot;ALF&quot;, what was ALF&#039;s real name?",
+    "correct_answer": "Gordon Shumway",
+    "incorrect_answers": ["Gordon Milipp", "Gordon Foster", "Gordon von Gam"]
+  },
+  {
+    "category": "History",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "The Spitfire originated from a racing plane.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What did the first moving picture depict?",
+    "correct_answer": "A galloping horse",
+    "incorrect_answers": [
+      "A woman in a dress",
+      "A man walking",
+      "A crackling fire"
+    ]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Sting, the lead vocalist of The Police, primarily plays what instrument?",
+    "correct_answer": "Bass Guitar",
+    "incorrect_answers": ["Drums", "Guitar", "Keyboards"]
+  },
+  {
+    "category": "Entertainment: Japanese Anime & Manga",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In the anime Assassination Classroom what is the class that Korosensei teaches?",
+    "correct_answer": "Class 3-E",
+    "incorrect_answers": ["Class 3-A", "Class 3-B", "Class 3-D"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "When you cry in space, your tears stick to your face.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of these countries is the smallest by population?",
+    "correct_answer": "Norway",
+    "incorrect_answers": ["Slovakia", "Finland", "Hong Kong"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which of these is not a wonder weapon in &quot;Call Of Duty: Zombies&quot;?",
+    "correct_answer": "R115 Resonator",
+    "incorrect_answers": ["GKZ-45 Mk3", "Ray Gun", "Scavenger"]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The dish Fugu, is made from what family of fish?",
+    "correct_answer": "Pufferfish",
+    "incorrect_answers": ["Bass", "Salmon", "Mackerel"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In which game did the character &quot;Mario&quot; make his first appearance?",
+    "correct_answer": "Donkey Kong",
+    "incorrect_answers": [
+      "Super Mario Bros.",
+      "Super Mario Land",
+      "Mario Bros."
+    ]
+  },
+  {
+    "category": "Entertainment: Japanese Anime & Manga",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the name of the school in the anime and manga &quot;Gosick&quot;?",
+    "correct_answer": "St. Marguerite",
+    "incorrect_answers": ["St. Augustine", "St. Mary", "St. Bernadette"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Where is the train station &quot;Llanfair&shy;pwllgwyngyll&shy;gogery&shy;chwyrn&shy;drobwll&shy;llan&shy;tysilio&shy;gogo&shy;goch&quot;?",
+    "correct_answer": "Wales",
+    "incorrect_answers": ["Moldova", "Czech Republic", "Denmark"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "The US emergency hotline is 911 because of the September 11th terrorist attacks.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "How would one say goodbye in Spanish?",
+    "correct_answer": "Adi&oacute;s",
+    "incorrect_answers": [" Hola", "Au Revoir", "Salir"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Scotch whisky and Drambuie make up which cocktail?",
+    "correct_answer": "Rusty Nail",
+    "incorrect_answers": ["Screwdriver", "Sex on the Beach", "Manhattan"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What does the &#039;S&#039; stand for in the abbreviation SIM, as in SIM card? ",
+    "correct_answer": "Subscriber",
+    "incorrect_answers": ["Single", "Secure", "Solid"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What geometric shape is generally used for stop signs?",
+    "correct_answer": "Octagon",
+    "incorrect_answers": ["Hexagon", "Circle", "Triangle"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The words &quot;bungalow&quot; and &quot;shampoo&quot; originate from the languages of which country?",
+    "correct_answer": "India",
+    "incorrect_answers": ["Papua New Guinea", "Ethiopia", "China"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "It is automatically considered entrapment in the United States if the police sell you illegal substances without revealing themselves.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What type of animal was Harambe, who was shot after a child fell into it&#039;s enclosure at the Cincinnati Zoo?",
+    "correct_answer": "Gorilla",
+    "incorrect_answers": ["Tiger", "Panda", "Crocodile"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "How many colors are there in a rainbow?",
+    "correct_answer": "7",
+    "incorrect_answers": ["8", "9", "10"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "The bikini is named after the &quot;Bikini Atoll&quot;, an island where the United States conducted tests on atomic bombs.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the unit of currency in Laos?",
+    "correct_answer": "Kip",
+    "incorrect_answers": ["Ruble", "Konra", "Dollar"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "Bulls are attracted to the color red.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which of these banks are NOT authorized to issue currency notes in Hong Kong?",
+    "correct_answer": "OCBC",
+    "incorrect_answers": ["HSBC", "Standard Chartered", "Bank of China"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What was the nickname given to the Hughes H-4 Hercules, a heavy transport flying boat which achieved flight in 1947?",
+    "correct_answer": "Spruce Goose",
+    "incorrect_answers": ["Noah&#039;s Ark", "Fat Man", "Trojan Horse"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "&quot;Ananas&quot; is mostly used as the word for Pineapple in other languages.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "Kissing someone for one minute burns about 2 calories.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Five dollars is worth how many nickles?",
+    "correct_answer": "100",
+    "incorrect_answers": ["50", "25", "69"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which of the following languages does NOT use gender as a part of its grammar?",
+    "correct_answer": "Turkish",
+    "incorrect_answers": ["German", "Danish", "Polish"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "Albert Einstein had trouble with mathematics when he was in school.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "Fast food restaurant chains Carl&#039;s Jr. and Hardee&#039;s are owned by the same company.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What do the letters of the fast food chain KFC stand for?",
+    "correct_answer": "Kentucky Fried Chicken",
+    "incorrect_answers": [
+      "Kentucky Fresh Cheese",
+      "Kibbled Freaky Cow",
+      "Kiwi Food Cut"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "&quot;27 Club&quot; is a term used to refer to a list of famous actors, musicians, and artists who died at the age of 27.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "Dihydrogen Monoxide was banned due to health risks after being discovered in 1983 inside swimming pools and drinking water.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "Scotland voted to become an independent country during the referendum from September 2014.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What machine element is located in the center of fidget spinners?",
+    "correct_answer": "Bearings",
+    "incorrect_answers": ["Axles", "Gears", "Belts"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Whose greyscale face is on the kappa emoticon on Twitch?",
+    "correct_answer": "Josh DeSeno",
+    "incorrect_answers": ["Justin DeSeno", "John DeSeno", "Jimmy DeSeno"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Named after the mallow flower, mauve is a shade of what?",
+    "correct_answer": "Purple",
+    "incorrect_answers": ["Red", "Brown", "Pink"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Originally another word for poppy, coquelicot is a shade of what?",
+    "correct_answer": "Red",
+    "incorrect_answers": ["Green", "Blue", "Pink"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of these words means &quot;idle spectator&quot;?",
+    "correct_answer": "Gongoozler",
+    "incorrect_answers": ["Gossypiboma", "Jentacular", "Meupareunia"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The Quadrangularis Reversum is best described as which of the following?",
+    "correct_answer": "A percussion instrument",
+    "incorrect_answers": [
+      "A building in Oxford University",
+      "A chess move",
+      "A geometric theorem"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the Zodiac symbol for Gemini?",
+    "correct_answer": "Twins",
+    "incorrect_answers": ["Fish", "Scales", "Maiden"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What nuts are used in the production of marzipan?",
+    "correct_answer": "Almonds",
+    "incorrect_answers": ["Peanuts", "Walnuts", "Pistachios"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the currency of Poland?",
+    "correct_answer": "Złoty",
+    "incorrect_answers": ["Ruble", "Euro", "Krone"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "According to the nursery rhyme, what fruit did Little Jack Horner pull out of his Christmas pie?",
+    "correct_answer": "Plum",
+    "incorrect_answers": ["Apple", "Peach", "Pear"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What was the name given to Japanese military dictators who ruled the country through the 12th and 19th Century?",
+    "correct_answer": "Shogun",
+    "incorrect_answers": ["Ninja", "Samurai", "Shinobi"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which American manufactured submachine gun was informally known by the American soldiers that used it as &quot;Grease Gun&quot;?",
+    "correct_answer": "M3",
+    "incorrect_answers": ["Colt 9mm", "Thompson", "MAC-10"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "A statue of Charles Darwin sits in what London museum?",
+    "correct_answer": "Natural History Museum",
+    "incorrect_answers": ["Tate", "British Museum", "Science Museum"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "The commercial UK channel ITV stands for &quot;International Television&quot;.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "How many notes are there on a standard grand piano?",
+    "correct_answer": "88",
+    "incorrect_answers": ["98", "108", "78"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "&quot;Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo.&quot; is a grammatically correct sentence.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Earth is located in which galaxy?",
+    "correct_answer": "The Milky Way Galaxy",
+    "incorrect_answers": [
+      "The Mars Galaxy",
+      "The Galaxy Note",
+      "The Black Hole"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the full title of the Prime Minister of the UK?",
+    "correct_answer": "First Lord of the Treasury",
+    "incorrect_answers": [
+      "Duke of Cambridge",
+      "Her Majesty&#039;s Loyal Opposition",
+      "Manager of the Crown Estate"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The word &quot;astasia&quot; means which of the following?",
+    "correct_answer": "The inability to stand up",
+    "incorrect_answers": [
+      "The inability to make decisions",
+      "The inability to concentrate on anything",
+      "A feverish desire to rip one&#039;s clothes off"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who is the author of Jurrasic Park?",
+    "correct_answer": "Michael Crichton",
+    "incorrect_answers": ["Peter Benchley", "Chuck Paluhniuk", "Irvine Welsh"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The Mexican Beer &quot;Corona&quot; is what type of beer?",
+    "correct_answer": "Pale Lager",
+    "incorrect_answers": ["India Pale Ale", "Pilfsner", "Baltic Porter"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which of the following blood component forms a plug at the site of injuries?",
+    "correct_answer": "Platelets",
+    "incorrect_answers": [
+      "Red blood cells",
+      "White blood cells",
+      "Blood plasma"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who invented the first ever chocolate bar, in 1847?",
+    "correct_answer": "Joseph Fry",
+    "incorrect_answers": ["Andrew Johnson", "John Cadbury", "John Tyler"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What are the three starter Pokemon available in Pokemon Black and White?",
+    "correct_answer": "Snivy, Tepig, Oshawott",
+    "incorrect_answers": [
+      "Snivy, Fennekin, Froakie",
+      "Chespin, Tepig, Froakie",
+      "Chespin, Fennekin, Oshawott"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In &quot;Resident Evil 3&quot;, how many inventory slots does Jill have at the start of the game?",
+    "correct_answer": "10",
+    "incorrect_answers": ["6", "8", "12"]
+  }
+]
